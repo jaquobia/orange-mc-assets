@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/template/crop",
+    "textures": {
+        "crop": "minecraft:wheat_2"
+    }
+}

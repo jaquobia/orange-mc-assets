@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "minecraft:cobblestone_stair"
+    },
+    "facing=south": {
+      "model": "minecraft:cobblestone_stair", "y": 180
+    },
+    "facing=east": {
+      "model": "minecraft:cobblestone_stair", "y": 90
+    },
+    "facing=west": {
+      "model": "minecraft:cobblestone_stair", "y": 270
+    }
+  }
+}

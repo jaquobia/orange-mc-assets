@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "meta=4": {
+      "model": "minecraft:torch"
+    },
+    "meta=0": {
+      "model": "minecraft:wall_torch", "y": 0
+    },
+    "meta=1": {
+      "model": "minecraft:wall_torch", "y": 180
+    },
+    "meta=2": {
+      "model": "minecraft:wall_torch", "y": 270
+    },
+    "meta=3": {
+      "model": "minecraft:wall_torch", "y": 90
+    }
+  }
+}

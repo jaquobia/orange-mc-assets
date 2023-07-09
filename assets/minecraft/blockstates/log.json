@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "tree=oak": {
+            "model": "minecraft:oak_log"
+        },"tree=spruce": {
+            "model": "minecraft:spruce_log"
+        },"tree=birch": {
+            "model": "minecraft:birch_log"
+        }
+    }
+}

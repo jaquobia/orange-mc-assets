@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "stone": {
+      "model": "minecraft:slab/stone"
+    },
+    "sandstone": {
+      "model": "minecraft:slab/sandstone"
+    },
+    "plank": {
+      "model": "minecraft:slab/oak_planks"
+    },
+    "cobblestone": {
+      "model": "minecraft:slab/cobblestone"
+    }
+  }
+}

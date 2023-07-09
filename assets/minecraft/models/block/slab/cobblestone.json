@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/template/slab_all",
+    "textures": {
+        "all": "minecraft:cobblestone"
+    }
+}

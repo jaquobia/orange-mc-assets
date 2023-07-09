@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "minecraft:dispenser"
+    },
+    "facing=south": {
+      "model": "minecraft:dispenser", "y": 180
+    },
+    "facing=east": {
+      "model": "minecraft:dispenser", "y": 90
+    },
+    "facing=west": {
+      "model": "minecraft:dispenser", "y": 270
+    }
+  }
+}

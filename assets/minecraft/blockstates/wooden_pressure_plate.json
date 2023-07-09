@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "minecraft:oak_pressure_plate_up"
+    },
+    "powered=true": {
+        "model": "minecraft:oak_pressure_plate_down"
+    }
+  }
+}

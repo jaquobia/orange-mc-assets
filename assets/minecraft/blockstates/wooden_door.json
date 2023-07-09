@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "facing=north,half=bottom,powered=false": {
+      "model": "minecraft:oak_door_bottom_left"
+    },
+    "facing=north,half=bottom,powered=true": {
+      "model": "minecraft:oak_door_bottom_right", "y": 270
+    },
+    "facing=south,half=bottom,powered=false": {
+      "model": "minecraft:oak_door_bottom_left", "y": 180
+    },
+    "facing=south,half=bottom,powered=true": {
+      "model": "minecraft:oak_door_bottom_right", "y": 90
+    },
+    "facing=east,half=bottom,powered=false": {
+      "model": "minecraft:oak_door_bottom_left", "y": 90
+    },
+    "facing=east,half=bottom,powered=true": {
+      "model": "minecraft:oak_door_bottom_right", "y": 0
+    },
+    "facing=west,half=bottom,powered=false": {
+      "model": "minecraft:oak_door_bottom_left", "y": 270
+    },
+    "facing=west,half=bottom,powered=true": {
+      "model": "minecraft:oak_door_bottom_right", "y": 180
+    },
+    "facing=north,half=top,powered=false": {
+      "model": "minecraft:oak_door_top_left"
+    },
+    "facing=north,half=top,powered=true": {
+      "model": "minecraft:oak_door_top_right", "y": 270
+    },
+    "facing=south,half=top,powered=false": {
+      "model": "minecraft:oak_door_top_left", "y": 180
+    },
+    "facing=south,half=top,powered=true": {
+      "model": "minecraft:oak_door_top_right", "y": 90
+    },
+    "facing=east,half=top,powered=false": {
+      "model": "minecraft:oak_door_top_left", "y": 90
+    },
+    "facing=east,half=top,powered=true": {
+      "model": "minecraft:oak_door_top_right", "y": 0
+    },
+    "facing=west,half=top,powered=false": {
+      "model": "minecraft:oak_door_top_left", "y": 270
+    },
+    "facing=west,half=top,powered=true": {
+      "model": "minecraft:oak_door_top_right", "y": 180
+    }
+  }
+}

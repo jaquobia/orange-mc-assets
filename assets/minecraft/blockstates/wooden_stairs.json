@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "minecraft:oak_plank_stair"
+    },
+    "facing=south": {
+      "model": "minecraft:oak_plank_stair", "y": 180
+    },
+    "facing=east": {
+      "model": "minecraft:oak_plank_stair", "y": 90
+    },
+    "facing=west": {
+      "model": "minecraft:oak_plank_stair", "y": 270
+    }
+  }
+}

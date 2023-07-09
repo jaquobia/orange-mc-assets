@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "stage=0": {
+      "model": "minecraft:wheat_0"
+    },
+    "stage=1": {
+      "model": "minecraft:wheat_1"
+    },
+    "stage=2": {
+      "model": "minecraft:wheat_2"
+    },
+    "stage=3": {
+      "model": "minecraft:wheat_3"
+    },
+    "stage=4": {
+      "model": "minecraft:wheat_4"
+    },
+    "stage=5": {
+      "model": "minecraft:wheat_5"
+    },
+    "stage=6": {
+      "model": "minecraft:wheat_6"
+    },
+    "stage=7": {
+      "model": "minecraft:wheat_7"
+    }
+  }
+}
