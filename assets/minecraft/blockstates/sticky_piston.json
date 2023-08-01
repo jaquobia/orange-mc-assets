@@ -1,6 +1,21 @@
 {
   "variants": {
-    "": {
+    "facing=north": {
+      "model": "minecraft:sticky_piston"
+    },
+    "facing=south": {
+      "model": "minecraft:sticky_piston"
+    },
+    "facing=east": {
+      "model": "minecraft:sticky_piston"
+    },
+    "facing=west": {
+      "model": "minecraft:sticky_piston"
+    },
+    "facing=up": {
+      "model": "minecraft:sticky_piston"
+    },
+    "facing=down": {
       "model": "minecraft:sticky_piston"
     }
   }

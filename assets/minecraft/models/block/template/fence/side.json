@@ -1,0 +1,24 @@
+{
+    "elements": [
+        {
+            "from": [6, 12, 0],
+            "to": [10, 15, 6],
+            "faces": {
+                "north": { "texture": "#fence", "uv": [0, 1, 6, 4] },
+                "south": { "texture": "#fence", "uv": [3, 1, 9, 4] },
+                "up": { "texture": "#fence", "uv": [6, 6, 10, 10], "cullface": "up" },
+                "down": { "texture": "#fence", "uv": [6, 6, 10, 10], "cullface": "down" }
+            }
+        },
+        {
+            "from": [6, 6, 0],
+            "to": [10, 9, 6],
+            "faces": {
+                "north": { "texture": "#fence", "uv": [0, 8, 6, 11] },
+                "south": { "texture": "#fence", "uv": [3, 8, 9, 11] },
+                "up": { "texture": "#fence", "uv": [6, 6, 10, 10], "cullface": "up" },
+                "down": { "texture": "#fence", "uv": [6, 6, 10, 10], "cullface": "down" }
+            }
+        }
+    ]
+}

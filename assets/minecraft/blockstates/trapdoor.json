@@ -1,7 +1,28 @@
 {
   "variants": {
-    "": {
-      "model": "minecraft:trapdoor"
+    "facing=north,powered=false": {
+      "model": "minecraft:oak_trapdoor_down"
+    },
+    "facing=north,powered=true": {
+      "model": "minecraft:oak_trapdoor_up"
+    },
+    "facing=east,powered=false": {
+      "model": "minecraft:oak_trapdoor_down"
+    },
+    "facing=east,powered=true": {
+      "model": "minecraft:oak_trapdoor_up", "y": 90
+    },
+    "facing=south,powered=false": {
+      "model": "minecraft:oak_trapdoor_down"
+    },
+    "facing=south,powered=true": {
+      "model": "minecraft:oak_trapdoor_up", "y": 180
+    },
+    "facing=west,powered=false": {
+      "model": "minecraft:oak_trapdoor_down"
+    },
+    "facing=west,powered=true": {
+      "model": "minecraft:oak_trapdoor_up", "y": 270
     }
   }
 }

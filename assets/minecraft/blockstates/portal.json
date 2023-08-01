@@ -1,7 +1,10 @@
 {
   "variants": {
-    "": {
-      "model": "minecraft:portal"
+    "orientation=NS": {
+      "model": "minecraft:portal", "y": 0
+    },
+    "orientation=EW": {
+      "model": "minecraft:portal", "y": 90
     }
   }
 }

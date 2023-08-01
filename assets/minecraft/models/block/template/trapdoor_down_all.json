@@ -1,0 +1,11 @@
+{
+    "parent": "minecraft:block/template/trapdoor_down",
+    "textures": {
+        "down": "#all",
+        "up": "#all",
+        "north": "#all",
+        "south": "#all",
+        "east": "#all",
+        "west": "#all"
+    }
+}

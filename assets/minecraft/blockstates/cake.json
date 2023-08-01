@@ -1,7 +1,22 @@
 {
   "variants": {
-    "": {
-      "model": "minecraft:cake"
+    "slices=0": {
+      "model": "minecraft:cake/0"
+    },
+    "slices=1": {
+      "model": "minecraft:cake/1"
+    },
+    "slices=2": {
+      "model": "minecraft:cake/2"
+    },
+    "slices=3": {
+      "model": "minecraft:cake/3"
+    },
+    "slices=4": {
+      "model": "minecraft:cake/4"
+    },
+    "slices=5": {
+      "model": "minecraft:cake/5"
     }
   }
 }

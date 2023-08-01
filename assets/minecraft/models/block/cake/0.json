@@ -1,0 +1,16 @@
+{
+    "elements": [
+        {
+            "from": [1, 0, 1],
+            "to": [15, 8, 15],
+            "faces": {
+                "up": { "texture": "minecraft:cake_top", "uv": [1, 1, 15, 15] },
+                "down": { "texture": "minecraft:cake_bottom", "cullface": "down", "uv": [1, 1, 15, 15] },
+                "north": { "texture": "minecraft:cake_side", "uv": [1, 8, 15, 16] },
+                "south": { "texture": "minecraft:cake_side", "uv": [1, 8, 15, 16] },
+                "east": { "texture": "minecraft:cake_side", "uv": [15, 8, 1, 16] },
+                "west": { "texture": "minecraft:cake_side", "uv": [1, 8, 15, 16] }
+            }
+        }
+    ]
+}

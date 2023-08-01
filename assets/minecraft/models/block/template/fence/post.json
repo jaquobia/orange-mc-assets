@@ -1,0 +1,16 @@
+{
+    "elements": [
+        {
+            "from": [6, 0, 6],
+            "to": [10, 16, 10],
+            "faces": {
+                "north": { "texture": "#fence", "uv": [6, 0, 10, 16] },
+                "south": { "texture": "#fence", "uv": [6, 0, 10, 16] },
+                "east": { "texture": "#fence", "uv": [6, 0, 10, 16] },
+                "west": { "texture": "#fence", "uv": [6, 0, 10, 16] },
+                "up": { "texture": "#fence", "uv": [6, 6, 10, 10], "cullface": "up" },
+                "down": { "texture": "#fence", "uv": [6, 6, 10, 10], "cullface": "down" }
+            }
+        }
+    ]
+}
