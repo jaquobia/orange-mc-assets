@@ -1,7 +1,8 @@
 {
   "multipart": [
     {
-      "apply": { "model": "block/oak_fence/post" }},
+      "apply": { "model": "block/oak_fence/post" }
+    },
     {
       "when": { "north": "true" },
       "apply": { "model": "block/oak_fence/side", "uvlock": true }
