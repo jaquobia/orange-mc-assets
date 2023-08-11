@@ -1,7 +1,48 @@
 {
   "variants": {
-    "": {
-      "model": "minecraft:powered_rail"
+    "shape=north_south,powered=false": {
+      "model": "minecraft:rail/powered_off"
+    },
+    "shape=east_west,powered=false": {
+      "model": "minecraft:rail/powered_off",
+      "y": 90
+    },
+    "shape=ascending_north,powered=false": {
+      "model": "minecraft:rail/powered_off_sloped"
+    },
+    "shape=ascending_south,powered=false": {
+      "model": "minecraft:rail/powered_off_sloped",
+      "y": 180
+    },
+    "shape=ascending_east,powered=false": {
+      "model": "minecraft:rail/powered_off_sloped",
+      "y": 270
+    },
+    "shape=ascending_west,powered=false": {
+      "model": "minecraft:rail/powered_off_sloped",
+      "y": 90
+    },
+    "shape=north_south,powered=true": {
+      "model": "minecraft:rail/powered_on"
+    },
+    "shape=east_west,powered=true": {
+      "model": "minecraft:rail/powered_on",
+      "y": 90
+    },
+    "shape=ascending_north,powered=true": {
+      "model": "minecraft:rail/powered_on_sloped"
+    },
+    "shape=ascending_south,powered=true": {
+      "model": "minecraft:rail/powered_on_sloped",
+      "y": 180
+    },
+    "shape=ascending_east,powered=true": {
+      "model": "minecraft:rail/powered_on_sloped",
+      "y": 270
+    },
+    "shape=ascending_west,powered=true": {
+      "model": "minecraft:rail/powered_on_sloped",
+      "y": 90
     }
   }
 }

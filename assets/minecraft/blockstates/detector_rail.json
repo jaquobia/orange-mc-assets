@@ -1,7 +1,26 @@
 {
   "variants": {
-    "": {
-      "model": "minecraft:detector_rail"
+    "shape=north_south": {
+      "model": "minecraft:rail/detector"
+    },
+    "shape=east_west": {
+      "model": "minecraft:rail/detector",
+      "y": 90
+    },
+    "shape=ascending_north": {
+      "model": "minecraft:rail/detector_sloped"
+    },
+    "shape=ascending_south": {
+      "model": "minecraft:rail/detector_sloped",
+      "y": 180
+    },
+    "shape=ascending_east": {
+      "model": "minecraft:rail/detector_sloped",
+      "y": 270
+    },
+    "shape=ascending_west": {
+      "model": "minecraft:rail/detector_sloped",
+      "y": 90
     }
   }
 }
