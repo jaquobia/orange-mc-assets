@@ -1,8 +1,8 @@
 {
     "textures": {
-        "down": "minecraft:piston_bottom",
-        "front": "minecraft:piston_front",
-        "side": "minecraft:piston_side"
+        "down": "minecraft:block/piston_bottom",
+        "front": "minecraft:block/piston_top",
+        "side": "minecraft:block/piston_side"
     },
     "elements": [
         {

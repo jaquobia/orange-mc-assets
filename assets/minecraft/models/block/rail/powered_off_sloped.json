@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:block/template/rail_sloped",
     "textures": {
-        "rail": "minecraft:powered_rail_off"
+        "rail": "minecraft:block/powered_rail"
     }
 }

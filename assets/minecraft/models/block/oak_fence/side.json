@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:block/template/fence/side",
     "textures": {
-        "fence": "minecraft:oak_plank"
+        "fence": "minecraft:block/oak_planks"
     }
 }

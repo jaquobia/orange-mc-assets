@@ -1,8 +1,8 @@
 {
     "parent": "minecraft:block/template/cube_column_top_bottom",
     "textures": {
-        "up": "minecraft:tnt_top",
-        "down": "minecraft:tnt_bottom",
-        "side": "minecraft:tnt_side"
+        "up": "minecraft:block/tnt_top",
+        "down": "minecraft:block/tnt_bottom",
+        "side": "minecraft:block/tnt_side"
     }
 }

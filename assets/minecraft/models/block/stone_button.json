@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:block/template/button",
     "textures": {
-        "button": "minecraft:stone"
+        "button": "minecraft:block/stone"
     }
 }

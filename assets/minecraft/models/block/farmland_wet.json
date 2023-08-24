@@ -1,7 +1,7 @@
 {
     "textures": {
-        "side": "minecraft:dirt",
-        "top": "minecraft:farmland_wet"
+        "side": "minecraft:block/dirt",
+        "top": "minecraft:block/farmland_moist"
     },
     "elements": [
         {

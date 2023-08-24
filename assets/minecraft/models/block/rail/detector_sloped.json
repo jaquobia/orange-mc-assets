@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:block/template/rail_sloped",
     "textures": {
-        "rail": "minecraft:detector_rail"
+        "rail": "minecraft:block/detector_rail"
     }
 }

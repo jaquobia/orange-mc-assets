@@ -1,8 +1,8 @@
 {
     "textures": {
-        "top": "minecraft:cactus_top",
-        "side": "minecraft:cactus_side",
-        "bottom": "minecraft:cactus_bottom"
+        "top": "minecraft:block/cactus_top",
+        "side": "minecraft:block/cactus_side",
+        "bottom": "minecraft:block/cactus_bottom"
     },
     "elements": [
         {

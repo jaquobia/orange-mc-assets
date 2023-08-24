@@ -1,9 +1,9 @@
 {
     "parent": "minecraft:block/template/orientable",
     "textures": {
-        "up": "minecraft:pumpkin_top",
-        "down": "minecraft:pumpkin_side",
-        "front": "minecraft:lantern_front",
-        "side": "minecraft:pumpkin_side"
+        "up": "minecraft:block/pumpkin_top",
+        "down": "minecraft:block/pumpkin_side",
+        "front": "minecraft:block/jack_o_lantern",
+        "side": "minecraft:block/pumpkin_side"
     }
 }

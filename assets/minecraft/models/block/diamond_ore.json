@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:block/template/cube_all",
     "textures": {
-        "all": "minecraft:diamond_ore"
+        "all": "minecraft:block/diamond_ore"
     }
 }

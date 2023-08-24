@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:block/template/cube_all",
     "textures": {
-        "all": "minecraft:red_wool"
+        "all": "minecraft:block/red_wool"
     }
 }

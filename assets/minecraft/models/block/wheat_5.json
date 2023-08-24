@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:block/template/crop",
     "textures": {
-        "crop": "minecraft:wheat_5"
+        "crop": "minecraft:block/wheat_stage5"
     }
 }

@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:block/template/door_bottom_left",
     "textures": {
-        "door_face": "minecraft:oak_door_bottom"
+        "door_face": "minecraft:block/oak_door_bottom"
     }
 }

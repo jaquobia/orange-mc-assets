@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:block/template/slab_all",
     "textures": {
-        "all": "minecraft:oak_plank"
+        "all": "minecraft:block/oak_planks"
     }
 }

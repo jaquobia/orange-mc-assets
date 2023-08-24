@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:block/template/cube_all",
     "textures": {
-        "all": "minecraft:soulsand"
+        "all": "minecraft:block/soul_sand"
     }
 }

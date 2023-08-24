@@ -1,11 +1,11 @@
 {
     "textures": {
-        "down": "minecraft:snow",
-        "up": "minecraft:snow",
-        "north": "minecraft:snow",
-        "south": "minecraft:snow",
-        "east": "minecraft:snow",
-        "west": "minecraft:snow"
+        "down": "minecraft:block/snow",
+        "up": "minecraft:block/snow",
+        "north": "minecraft:block/snow",
+        "south": "minecraft:block/snow",
+        "east": "minecraft:block/snow",
+        "west": "minecraft:block/snow"
     },
     "elements": [
         {

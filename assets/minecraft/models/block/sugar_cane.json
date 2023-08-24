@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:block/template/cross",
     "textures": {
-        "cross": "minecraft:reed"
+        "cross": "minecraft:block/sugar_cane"
     }
 }

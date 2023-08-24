@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:block/template/cube_all",
     "textures": {
-        "all": "minecraft:jukebox_side"
+        "all": "minecraft:block/note_block"
     }
 }

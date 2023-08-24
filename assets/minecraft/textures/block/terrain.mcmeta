@@ -1,6 +1,6 @@
 {
   "atlas": {
-    "Uniform": {
+    "uniform": {
       "across": 16,
       "down": null,
       "textures": [

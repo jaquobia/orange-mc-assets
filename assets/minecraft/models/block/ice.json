@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:block/template/cube_all",
     "textures": {
-        "all": "minecraft:ice"
+        "all": "minecraft:block/ice"
     }
 }

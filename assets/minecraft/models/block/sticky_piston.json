@@ -1,9 +1,9 @@
 {
     "parent": "minecraft:block/template/orientable",
     "textures": {
-        "up": "minecraft:piston_bottom",
-        "down": "minecraft:piston_side",
-        "front": "minecraft:piston_sticky_front",
-        "side": "minecraft:piston_side"
+        "up": "minecraft:block/piston_bottom",
+        "down": "minecraft:block/piston_side",
+        "front": "minecraft:block/piston_top_sticky",
+        "side": "minecraft:block/piston_side"
     }
 }
